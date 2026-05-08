@@ -1,29 +1,15 @@
 cff-version: 1.2.0
-
 message: "Cite esta coleção usando os metadados abaixo."
-
 title: "Física"
-
 authors:
   - family-names: "Mateus"
     given-names: "Abílio"
     orcid: "https://orcid.org/0000-0002-3464-028X"
-
-abstract: >
-  Coleção de livros didáticos universitários de Física,
-  abrangendo mecânica clássica, termodinâmica,
-  eletromagnetismo e física moderna.
-
 license: "CC-BY-NC-4.0"
-
 repository-code: "https://github.com/abiliomateus/projeto_antares"
-
 url: "https://github.com/abiliomateus/projeto_antares"
-
 version: "2026"
-
 date-released: 2026-05-08
-
 preferred-citation:
   type: book
   authors:
