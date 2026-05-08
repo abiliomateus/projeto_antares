@@ -30,13 +30,6 @@ repository-code: "https://github.com/abiliomateus/projeto_antares"
 
 url: "https://github.com/abiliomateus/projeto_antares"
 
-repository-artifact: "https://github.com/abiliomateus/projeto_antares/releases"
-
-references:
-  - type: generic
-    title: "Zenodo Community"
-    url: "https://zenodo.org/communities/antares"
-
 version: "2026"
 
 date-released: 2026-05-08
