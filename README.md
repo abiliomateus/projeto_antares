@@ -1,5 +1,6 @@
-# projeto_antares
-Projeto Antares - Acessibilidade de Recursos Educacionais em Física e Astronomia
+# Projeto Ant⍺res
+
+Acessibilidade de Recursos Educacionais em Física e Astronomia
 
 ## Física - Volume 1
 
