@@ -14,14 +14,6 @@ abstract: >
   abrangendo mecânica clássica, termodinâmica,
   eletromagnetismo e física moderna.
 
-keywords:
-  - Física
-  - Mecânica Clássica
-  - Termodinâmica
-  - Eletromagnetismo
-  - Física Moderna
-  - Livro didático
-
 license: "CC-BY-NC-4.0"
 
 repository-code: "https://github.com/abiliomateus/projeto_antares"
