@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this book, please cite it as below."
+authors:
+- family-names: Mateus
+  given-names: Abílio
+orcid: https://orcid.org/0000-0002-3464-028X
+title:Física - Volume 1
+version: volume1/1.10.4
+date-released: 2026-05-08
+ 
