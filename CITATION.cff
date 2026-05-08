@@ -4,8 +4,6 @@ message: "Cite esta coleção usando os metadados abaixo."
 
 title: "Física"
 
-type: book
-
 authors:
   - family-names: "Mateus"
     given-names: "Abílio"
@@ -33,3 +31,11 @@ url: "https://github.com/abiliomateus/projeto_antares"
 version: "2026"
 
 date-released: 2026-05-08
+
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Mateus"
+    given-names: "Abílio"
+    orcid: "https://orcid.org/0000-0002-3464-028X"
+
