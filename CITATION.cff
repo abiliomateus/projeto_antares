@@ -2,9 +2,11 @@ cff-version: 1.2.0
 
 message: "Cite este livro usando os metadados abaixo."
 
-title: "Física - Volume 1"
+title: "Física — Volume 1"
 
-version: "1.10.4"
+version: "1.10.7"
+
+type: book
 
 authors:
   - family-names: "Mateus"
@@ -12,6 +14,9 @@ authors:
 
 license: "CC-BY-NC-4.0"
 
-date-released: 2026-05-08
+date-released: "2026-05-08"
 
 repository-code: "https://github.com/abiliomateus/projeto_antares"
+
+abstract: >
+  Livro didático universitário de Física.
