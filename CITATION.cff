@@ -1,22 +1,42 @@
 cff-version: 1.2.0
 
-message: "Cite este livro usando os metadados abaixo."
+message: "Cite esta coleção usando os metadados abaixo."
 
-title: "Física — Volume 1"
-
-version: "1.10.7"
+title: "Física"
 
 type: book
 
 authors:
   - family-names: "Mateus"
     given-names: "Abílio"
+    orcid: "https://orcid.org/0000-0002-3464-028X"
+
+abstract: >
+  Coleção de livros didáticos universitários de Física,
+  abrangendo mecânica clássica, termodinâmica,
+  eletromagnetismo e física moderna.
+
+keywords:
+  - Física
+  - Mecânica Clássica
+  - Termodinâmica
+  - Eletromagnetismo
+  - Física Moderna
+  - Livro didático
 
 license: "CC-BY-NC-4.0"
 
-date-released: "2026-05-08"
-
 repository-code: "https://github.com/abiliomateus/projeto_antares"
 
-abstract: >
-  Livro didático universitário de Física.
+url: "https://github.com/abiliomateus/projeto_antares"
+
+repository-artifact: "https://github.com/abiliomateus/projeto_antares/releases"
+
+references:
+  - type: generic
+    title: "Zenodo Community"
+    url: "https://zenodo.org/communities/antares"
+
+version: "2026"
+
+date-released: 2026-05-08
