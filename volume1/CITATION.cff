@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+
+message: "Cite este livro usando os metadados abaixo."
+
+title: "Física - Volume 1"
+
+version: "1.10.4"
+
+authors:
+  - family-names: "Mateus"
+    given-names: "Abílio"
+
+license: "CC-BY-NC-4.0"
+
+date-released: 2026-05-08
+
+repository-code: "https://github.com/abiliomateus/projeto_antares"
